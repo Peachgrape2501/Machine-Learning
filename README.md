@@ -1,2 +1,2 @@
 # Machine-Learning
-# projects of each courses
+projects of each courses
