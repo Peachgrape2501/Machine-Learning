@@ -4,5 +4,5 @@
 ### Classification
 ### Unsupervised Machine learning
 ### Deep Learning
-### Heart Disease Prediction with neutral networks
-### Time series
+### Heart Disease Prediction With Neutral Networks
+### Time Series
